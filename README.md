@@ -4,9 +4,8 @@ jvmspect (JVM/Inspect) is a tool that convert Java .class files into XML files, 
 
 xddbg is a tool that leverages the Java Bytecode parser of jvmspect to run scripted debug sessions and bytecode level stepping, and collect traces.
 
-# YouTube
-
-YouTube channel: https://www.youtube.com/@jvmspect-xddbg
+- YouTube channel: https://www.youtube.com/@jvmspect-xddbg
+- Discord: https://discord.gg/YrEGUnq5EB
 
 # Contributing
 
